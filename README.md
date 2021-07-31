@@ -1,0 +1,2 @@
+# NanoBinds
+keystrokes for nano
